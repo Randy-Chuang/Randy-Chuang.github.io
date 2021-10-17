@@ -1,0 +1,5 @@
+# robots.txt for https://randy-chuang.github.io/
+
+User-agent: *
+
+Sitemap: https://randy-chuang.github.io/sitemap.xml
